@@ -52,5 +52,11 @@ export const devs: Dev[] = [
     "bio": "Engenheiro de Software",
     "github": "https://github.com/notlesz",
     "linkedin": "https://www.linkedin.com/in/elton-souza-br/"
+  },
+    {
+    "name": "Jonathas Walbert",
+    "bio": "",
+    "github": "https://github.com/JonathasWalbert",
+    "linkedin": "https://www.linkedin.com/in/jonathaswalbert/"
   }
 ]
